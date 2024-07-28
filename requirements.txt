@@ -1,0 +1,7 @@
+numpy
+opencv-python
+Pillow
+streamlit
+tensorflow
+requests==2.31.0
+beautifulsoup4==4.10.0
