@@ -1,0 +1,1 @@
+The system is for medicinal plant detection, it identifies the medicinal plant and states its benefits, the UI is streamlit, the dataset is small but the model works youcan add more data, make sure you create an environment and install the requirements.
